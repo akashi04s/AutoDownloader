@@ -1,5 +1,5 @@
 # AutoDownloader
-Download files from DropGalaxy, Vidoza, FileUpload and manny other hosting sites effortlessly.
+Download files from DropGalaxy, Vidoza, FileUpload and many other hosting sites effortlessly.
 
 # Description
 This Tampermonkey userscript simplifies the process of downloading files from various websites, including DropGalaxy, UpFile,Streamtape and others. It automates the resolution of Google reCAPTCHA challenges and helps users avoid unwanted pop-up ads, streamlining the download experience. With minimal user interaction, users can download files with fewer clicks.
